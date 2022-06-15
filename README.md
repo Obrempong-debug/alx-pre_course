@@ -1,1 +1,1 @@
-Work in progress
+Second part of the git project
